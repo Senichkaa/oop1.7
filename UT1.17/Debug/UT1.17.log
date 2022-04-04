@@ -1,0 +1,4 @@
+﻿  UT1.17.cpp
+G:\Visual Studio Community 2019\repos\oop1.7\oop1.7\Fraction.cpp(27,10): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+G:\Visual Studio Community 2019\repos\oop1.7\oop1.7\LongLong.cpp(30,12): warning C4838: Преобразование из "const unsigned long" в "long" требует сужающего преобразования.
+  UT1.17.vcxproj -> G:\Visual Studio Community 2019\repos\oop1.7\Debug\UT1.17.dll
